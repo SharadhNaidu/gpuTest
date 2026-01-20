@@ -1,0 +1,26 @@
+# Virtual environment (auto-created by run_gpu_test.sh)
+.gpu_test_venv/
+venv/
+env/
+.venv/
+
+# Generated reports (optional - uncomment to exclude)
+# gpu_report.png
+# gpu_report.json
+# gpu_test_results/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyc
+
+# IDE files
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
