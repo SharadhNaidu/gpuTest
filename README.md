@@ -19,10 +19,3 @@ python run.py
 ```
 
 Or double-click `run.bat`
-
-## Output
-
-Reports are saved to:
-- `ai_desktop_report.png` - Visual summary
-- `ai_desktop_report.txt` - Text report
-- `ai_desktop_report.json` - Machine-readable data
